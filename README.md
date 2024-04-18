@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+## Here's how to get started:
+
 Please follow the documentation at [vuejs.org](https://vuejs.org/)!
 
 ## Sponsors
